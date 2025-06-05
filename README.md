@@ -1,5 +1,5 @@
 # 🧪 Manipulación de Strings con Python en Google Colab
-
+![Manipulacion de Datos](https://image.lexica.art/full_webp/a1d9d11a-b804-485f-a218-ed39c11eef39)
 Este repositorio contiene ejemplos prácticos y explicaciones detalladas sobre cómo manipular y procesar cadenas de texto (`strings`) en Python. Todo el trabajo se realiza en un entorno interactivo de Google Colab para facilitar la exploración y experimentación.
 
 ## 📘 Contenido
